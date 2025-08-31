@@ -6,3 +6,5 @@ Requirement Analysis in Software Development.
 #Types of Requirements.
 ##Functional Requirements
 ##Non-functional Requirements.
+#Use Case Diagrams.
+#Acceptance Criteria
