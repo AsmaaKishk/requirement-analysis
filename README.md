@@ -8,7 +8,7 @@ Requirement Analysis in Software Development.
 ### Functional Requirements
 ### Non-functional Requirements
 
-# Use Case Diagrams
+## Use Case Diagrams
 
 ![Use Case Diagram](./alx-booking-uc.png.drawio.png)
 
