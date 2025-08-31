@@ -6,7 +6,6 @@ Requirement Analysis in Software Development.
 #Types of Requirements.
 ##Functional Requirements
 ##Non-functional Requirements.
-#Use Case Diagrams.
 ## Use Case Diagrams
 
 Use Case Diagrams are a type of Unified Modeling Language (UML) diagram that shows the interactions between **actors** (users or external systems) and the system itself.  
