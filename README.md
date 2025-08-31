@@ -18,7 +18,6 @@ They are useful because they:
 ### Booking System Use Case Diagram
 Below is the use case diagram for the booking system:
 
-![Use Case Diagram](<img width="301" height="152" alt="image" src="https://github.com/user-attachments/assets/ad97ed9e-2618-4c8b-92f5-99fbc26f834b" />
-)
+![Use Case Diagram](alx-booking-uc.png.drawio.png)
 
 ## Acceptance Criteria
