@@ -8,13 +8,8 @@ Requirement Analysis in Software Development.
 ### Functional Requirements
 ### Non-functional Requirements
 
-## Use Case Diagrams
-Use Case Diagrams show how users (actors) interact with the system.  
-They help us understand what the system should do and improve communication.
+# Use Case Diagrams
 
-
-### Booking System Use Case Diagram
-Below is the use case diagram for the booking system:
 
 ![Use Case Diagram]alx-booking-uc.png
 
