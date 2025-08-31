@@ -8,7 +8,7 @@ Requirement Analysis in Software Development.
 ### Functional Requirements
 ### Non-functional Requirements
 
-## Use Case Diagrams
+# Use Case Diagrams
 Use Case Diagrams are a type of UML diagram that show interactions between **actors** (users or external systems) and the system.  
 They are useful because they:  
 - Visualize system functionality from the user’s perspective.  
