@@ -16,6 +16,6 @@ They help us understand what the system should do and improve communication.
 ### Booking System Use Case Diagram
 Below is the use case diagram for the booking system:
 
-![Use Case Diagram](../diagrams/alx-booking-uc.png)
+![Use Case Diagram](alx-booking-uc.png)
 
 ## Acceptance Criteria
