@@ -18,7 +18,7 @@ They are useful because they:
 ### Booking System Use Case Diagram
 Below is the use case diagram for the booking system:
 
- alx-booking-uc.png
+![Use Case Diagram](main/alx-booking-uc.png.drawio.png)
 
 
 
