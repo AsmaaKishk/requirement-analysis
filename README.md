@@ -18,6 +18,6 @@ They are useful because they:
 ### Booking System Use Case Diagram
 Below is the use case diagram for the booking system:
 
-![Use Case Diagram](./alx-booking-uc.png)
+![Use Case Diagram](https://app.diagrams.net/?utm_source=chatgpt.com)
 
 ## Acceptance Criteria
