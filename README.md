@@ -10,6 +10,6 @@ Requirement Analysis in Software Development.
 
 # Use Case Diagrams
 
-![Use Case Diagram](./alx-booking-uc.png)
+![Use Case Diagram](/alx-booking-uc.png)
 
 ## Acceptance Criteria
